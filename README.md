@@ -4,11 +4,11 @@
 </div>
 
 <div align="center">
-  <a href="https://nohello.net/">
+  <a href="https://dw-2341-linkpage.pages.dev/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
+<!--
 <details>
   <summary>☎️ contact me</summary>
 <div>
@@ -16,7 +16,7 @@
     <h2 align="center">😎 you can reach me by:</h2>
     <p align="center">
       <br/>
-      <!--
+      
       <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
@@ -26,7 +26,7 @@
       <a href="https://mailto:azzar.mr.zs@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
--->
+
     </p>
   <p align="center">
      
@@ -35,7 +35,7 @@
   </samp>
 </div>
 </details>
-
+-->
 <details>
   <summary>🧮 about</summary>
 <div>
