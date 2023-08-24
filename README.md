@@ -10,11 +10,9 @@
        alt="snake" /></a>
 </div>
 
-- 🔭 I’m currently working on [🌀SPLΛYFUNITY🌀](https://github.com/SplayfunityDE)
+- 🔭 I’m currently working on [🌀SPLΛYFUNITY🌀](https://github.com/SplayfunityDE) & [HypeTime.eu](https://github.com/QandQ-Development)
 
 - 🌱 I’m currently learning **Python 🐍**
-
-- 🔭 I’m currently working on [HypeTime.eu](https://github.com/QandQ-Development)
 
 - 💬 Ask me about **Java**
 
