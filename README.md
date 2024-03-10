@@ -1,14 +1,9 @@
 
 </div>
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Kugel421</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, </h1>
 <h3 align="center">Backend and frontend Developer from Germany</h3>
 
 
-<div align="center">
-  <a href="https://dw-2341-linkpage.pages.dev/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 - 🔭 I’m currently working on [🌀SPLΛYFUNITY🌀](https://github.com/SplayfunityDE) & [HypeTime.eu](https://github.com/QandQ-Development)
 
