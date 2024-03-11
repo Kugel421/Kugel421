@@ -1,6 +1,6 @@
 
 </div>
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, </h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> 👋 </h1>
 <h3 align="center">Backend and frontend Developer from Germany</h3>
 
 
